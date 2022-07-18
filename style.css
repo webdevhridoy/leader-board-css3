@@ -53,9 +53,9 @@ hr {
 /*---------------------------------------------------
 top blog section
 ------------------------------------------------ */
-.blog-title{ 
+.top-blog-title{ 
     color: #562EFF;
-    font-size: 20px;
+    font-size: 24px;
 }
 .blog {
     display: flex;
