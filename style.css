@@ -97,6 +97,7 @@ top blog section
     border: 1px solid rgba(0, 0, 0, 0.01);
     box-shadow: 0px 2px 5px rgb(0 0 0 / 8%);
     border-radius: 14px;
+    padding: 10px;
     
 }
 .course-thumbnail img {
@@ -138,6 +139,7 @@ top blog section
     color: #A2A2A2;
     Font-family: Poppins;
     Font-size: 14.69px;
+    margin-left: 10px;
 }
 .fa-clock {
     margin-right: 5px;
